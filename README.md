@@ -1,2 +1,2 @@
 # cmd-menu-unix
-A simple menu-system written in /bin/sh
+A simple, yet flexible menu system for creating and running text-based menus in a Unix/Linux environment.
